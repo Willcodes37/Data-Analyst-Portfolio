@@ -1,3 +1,6 @@
+-- Based on Forbes Richest Atheletes (Forbes Richest Athletes 1990-2020).csv
+
+
 USE forbes_highest_paid_athletes;
 
 
